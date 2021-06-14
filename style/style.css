@@ -66,30 +66,6 @@ body {
     font-size: 14px;
     line-height: 24px;
 }
-.diyorxoja__news{
-    display: flex;
-    margin: 0 auto;
-    align-items: center;
-    justify-content: center;
-}
-
-.news__content{
-    padding: 15px;
-    background: #B71C1C;
-    max-height: 380px;
-    max-width: 350px;
-}
-.content__title{
-    font-size: 19px;
-    line-height: 22px;
-    color: #FFFFFF;
-}
-.content__text{
-    font-size: 16px;
-    line-height: 19px;
-    color: #EBEBEB;
-}
-
 .home__title {
     color:rgb(20, 49, 211);
     font-size:45px;
@@ -115,4 +91,3 @@ body {
     background-color:rgb(72, 24, 173);
     color:white;
 }
-
